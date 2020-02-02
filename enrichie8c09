@@ -1,0 +1,26 @@
+<html><head>
+<title> Enrichie Gracia
+</title>
+</head>
+<body>
+<p align="center">
+<font size="7" color="gold" face="times new roman">
+Hello, my name is 
+</font>
+</p>
+<p align="center">
+<font size="6" color="blue" face="arial">
+E<font size="6" color="red" face="arial">n</font><font size="6" color="red" face="arial">r</font>i<font size="6" color="red" face="arial">c</font><font size="6" color="red" face="arial">h</font>ie <font size="6" color="red" face="arial">G</font><font size="6" color="red" face="arial">r</font>a<font size="6" color="red" face="arial">c</font>ia
+</font>
+</p>
+<p align="center">
+<font size="7" color="silver" face="garamond">
+And my zodiac is
+</font>
+</p>
+<p align="center">
+<img src="Aries.png" width="250" height="250">
+</p>
+
+</body>
+</html>
